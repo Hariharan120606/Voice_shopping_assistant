@@ -5,8 +5,8 @@ Tailwind CSS. Add, remove, and search items by speaking naturally, get smart
 suggestions (running-low, seasonal, substitutes), and manage quantities —
 all with real-time visual feedback.
 
-**Live demo:** _add your deployed URL here_
-**Repo:** _add your GitHub URL here_
+**Live demo:** [_This is my deployed URL_](https://voice-shopping-assistant-drab.vercel.app/)
+**Repo:** _[GitHub repo of this project](https://github.com/Hariharan120606/Voice_shopping_assistant)_
 
 ---
 
